@@ -9,3 +9,14 @@
 2015-03-31 11:31:28,188 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Monika.Agarwal\Atmecs\Test\src\main\resources
 2015-03-31 11:31:28,190 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-03-31 11:31:28,190 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Monika.Agarwal\Atmecs\Test\src\test\resources
+2015-03-31 11:48:14,182 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Test:Test:0.0.1-SNAPSHOT @ C:\Users\Monika.Agarwal\Atmecs\Test\pom.xml.
+2015-03-31 11:48:14,182 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Test:Test:0.0.1-SNAPSHOT @ C:\Users\Monika.Agarwal\Atmecs\Test\pom.xml.
+2015-03-31 11:48:16,524 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-31 11:48:16,524 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Monika.Agarwal\Atmecs\Test\src\main\resources
+2015-03-31 11:48:16,524 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-31 11:48:16,524 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Monika.Agarwal\Atmecs\Test\src\test\resources
+2015-03-31 11:48:19,176 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Test:Test:0.0.1-SNAPSHOT @ C:\Users\Monika.Agarwal\Atmecs\Test\pom.xml.
+2015-03-31 11:48:19,832 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-31 11:48:19,832 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Monika.Agarwal\Atmecs\Test\src\main\resources
+2015-03-31 11:48:19,832 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-31 11:48:19,832 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Monika.Agarwal\Atmecs\Test\src\test\resources
