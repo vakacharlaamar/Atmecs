@@ -1,0 +1,11 @@
+2015-03-31 11:31:20,572 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Monika.Agarwal\Atmecs\Test\pom.xml
+2015-03-31 11:31:25,379 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Test:Test:0.0.1-SNAPSHOT @ C:\Users\Monika.Agarwal\Atmecs\Test\pom.xml.
+2015-03-31 11:31:26,735 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Test:Test:0.0.1-SNAPSHOT @ C:\Users\Monika.Agarwal\Atmecs\Test\pom.xml.
+2015-03-31 11:31:26,750 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Test/src/main/java
+2015-03-31 11:31:26,759 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Test/src/test/java
+2015-03-31 11:31:27,096 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2015-03-31 11:31:28,106 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Test:Test:0.0.1-SNAPSHOT @ C:\Users\Monika.Agarwal\Atmecs\Test\pom.xml.
+2015-03-31 11:31:28,188 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-31 11:31:28,188 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Monika.Agarwal\Atmecs\Test\src\main\resources
+2015-03-31 11:31:28,190 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-31 11:31:28,190 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Monika.Agarwal\Atmecs\Test\src\test\resources
